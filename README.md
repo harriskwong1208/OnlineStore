@@ -25,4 +25,4 @@ OnlineStore is a  web application utilizing Python, HTML, and the Django Framewo
   Paste the following into web browser url to run the web application.
 </p>
 
-![](media/item_images/Screenshot(21).png)
+![](media/item_images/url.png)
