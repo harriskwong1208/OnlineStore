@@ -8,19 +8,21 @@ OnlineStore is a  web application utilizing Python, HTML, and the Django Framewo
   
   
   
-![](asset/TreasureGame.png)
+![](media/item_images/onlinestoreGit.png)
   
   
 </p>
 
-<b>Installation:</b>
+<b>How to Run:</b>
 <p>
   -Clone this project.
 </p>  
 <p>
   -Use an IDE (for example: VS code) to open project.
 </p>  
-  -In terminal, type "pythonw main.py".
+  -Change directory to project. In terminal, type "python manage.py runserver".
 <p>
-  -Game window shows up, enjoy the game!
+  Paste the following into web browser url to run the web application.
 </p>
+
+![](media/item_images/Screenshot(21).png)
