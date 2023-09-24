@@ -16,20 +16,4 @@ OnlineStore is a web application utilizing Python, HTML/CSS, and the Django Fram
   
 </p>
   
-  
-<h2>How to Run on local computer:</h2>
-<p>
-  -Clone this repository.
-</p>  
-<p>  -Set up Django, tutorial: (https://www.youtube.com/watch?v=MLeVezRSjvU)</p>
-<p>
-  -In termainal, change directory to project. Then type "python manage.py runserver" to start the server on local computer.
-</p>
-<p>
-  -After starting the server, paste the following into web browser url to run the web application.
-</p>
 
-  
- 
-
-![](media/item_images/url.png)
